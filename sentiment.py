@@ -1,5 +1,5 @@
 def analyze_sentiment(text):
-    return "neutral"
+    return "negative"
 
 text = "I love NLP!"
 print(analyze_sentiment(text))
